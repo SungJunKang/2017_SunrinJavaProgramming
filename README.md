@@ -1,4 +1,4 @@
 # Dotter
 2017년 프로그래밍(JAVA)시간에 팀 프로젝트로 진행하였던 GUI를 사용한 게임 개발 프로세스에 쓰일 수 있는 디자닝 툴입니다.
 
-## https://blog.naver.com/std07209/221182839962
+#### https://blog.naver.com/std07209/221182839962
